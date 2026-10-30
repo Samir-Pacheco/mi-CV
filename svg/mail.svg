@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" width="1rem" height="1rem"
+                    stroke-width="2">
+                    <!-- Cuerpo del sobre -->
+                    <rect x="2" y="4" width="20" height="16" rx="3" ry="3" />
+                    <!-- Solapa/Pliegue del sobre -->
+                    <path d="M22 6l-10 7L2 6" />
+                </svg>
